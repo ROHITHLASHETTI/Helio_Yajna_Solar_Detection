@@ -1,0 +1,4 @@
+model,F1 Score,mAP50-95,Precision,Recall,MAE (Area),RMSE (Capacity)
+Solar panels,0.765,0.517,0.725,0.813,268.0178 m²,148.7741 kW
+Custom Workflow Object Detection,0.789,0.561,0.777,0.802,8727.4227 m²,3670.3497 kW
+LSG1547 Project,0.547,0.284,0.73,0.438,3518.7892 m²,2225.4619 kW

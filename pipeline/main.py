@@ -211,7 +211,7 @@ def main():
 
         print(f"Saved results to {out_json_path}")
 
-    print("\n✅ Batch Processing Complete. Check output folder:", OUTPUT_DIR)
+    print("\n✅ Batch Processing Complete. Check output folders for results.")
 
 
 if __name__ == "__main__":

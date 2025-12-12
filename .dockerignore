@@ -1,8 +1,7 @@
-node_modules
+output_data/
+logs/
+input_data/
+.git
 __pycache__
 *.pyc
 .env
-.git
-.DS_Store
-dist
-build

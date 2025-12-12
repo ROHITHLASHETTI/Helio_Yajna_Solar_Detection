@@ -2,12 +2,17 @@
   "sample_id": 7.0,
   "lat": 22.9644,
   "lon": 72.6478,
-  "has_solar": false,
-  "confidence_pct": 0.0,
-  "pv_area_sqm_est": 0.0,
-  "buffer_radius_sqft": 0,
+  "has_solar": true,
+  "confidence_pct": 54.98,
+  "pv_area_sqm_est": 391.2,
+  "buffer_radius_sqft": 1200,
   "qc_status": "VERIFIABLE",
-  "best_bbox": [],
+  "best_bbox": [
+    333.1385498046875,
+    347.8385925292969,
+    462.033447265625,
+    482.7304382324219
+  ],
   "image_metadata": {
     "source": "Google Static Maps",
     "zoom": 20

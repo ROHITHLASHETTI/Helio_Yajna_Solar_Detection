@@ -1,13 +1,18 @@
 {
   "sample_id": 6.0,
-  "lat": 11.5976,
-  "lon": 78.001,
-  "has_solar": false,
-  "confidence_pct": 0.0,
-  "pv_area_sqm_est": 0.0,
-  "buffer_radius_sqft": 0,
+  "lat": 27.51742,
+  "lon": 71.929638,
+  "has_solar": true,
+  "confidence_pct": 55.2,
+  "pv_area_sqm_est": 238.24,
+  "buffer_radius_sqft": 1200,
   "qc_status": "VERIFIABLE",
-  "best_bbox": [],
+  "best_bbox": [
+    346.5723876953125,
+    309.3018798828125,
+    640.0,
+    345.38677978515625
+  ],
   "image_metadata": {
     "source": "Google Static Maps",
     "zoom": 20

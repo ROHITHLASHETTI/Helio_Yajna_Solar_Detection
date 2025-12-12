@@ -52,14 +52,14 @@ Use this if you want to modify the code.
 1. Build the Image:
 code
 Bash
-docker build -t my-ml-project .
+docker build -t helio_yajna_solar_detection.
 2. Run the Container (Windows PowerShell):
 code
 Powershell
 docker run --env-file .env `
   -v "${PWD}/input_data:/app/input_data" `
   -v "${PWD}/output_data:/app/output_data" `
-  my-ml-project
+  helio_yajna_solar_detection
 (Note: If using Mac/Linux, replace ${PWD} with $(pwd) and backticks ` with backslashes \)
 📂 Project Structure
 code

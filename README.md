@@ -52,7 +52,7 @@ Use this if you want to modify the code.
 1. Build the Image:
 code
 Bash
-docker build -t helio_yajna_solar_detection.
+docker build -t helio_yajna_solar_project.
 2. Run the Container (Windows PowerShell):
 code
 Powershell
